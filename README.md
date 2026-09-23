@@ -24,8 +24,11 @@ This workshop is intended to be run in github codespaces to avoid any finiky set
 - From the main branch on this repo select the `<> Code` button, then the `Create Codespace on main` button from the drop down as illustrated:
 ![Image description](assets/assets/1.png)
 
-- A new tab will open and attempt to open the codespace in your browser, this will fail but its fine, just shut this tab and go back to the tab with the main page. 
-- Select the same `<> Code` button as before. This time the drop down should show a codes space with a randomly generated name (it may take a minute so just wait and refresh). select the thre horizontal dots to the right of the name, then select the `Open in Visual Studio Code` button as illustrated:
+- A new tab will open and attempt to open the codespace in your browser, give it a few minutes to set up - you can see it working in the terminal abd it should look like this ![Image description](assets/assets/7.png)
+
+
+
+- you can also connect VSCode to the workspace if you'd prefere to work from there, Select the same `<> Code` button as before, this time the drop down should show a codes space with a randomly generated name (it may take a minute so just wait and refresh). select the thre horizontal dots to the right of the name, then select the `Open in Visual Studio Code` button as illustrated, note this can be a little buggy!
 ![Image description](assets/assets/2.png)
 
 - The new tab below will open, select `Open`:
@@ -36,7 +39,7 @@ This workshop is intended to be run in github codespaces to avoid any finiky set
 - Wait a minute or two for everything to boot up, your VS code should look as below with the repo files on the left and note in the bottom left it's connected to your codespace.
 ![Image description](assets/assets/5.png)
 
-- On the top tool bar select `Terminal` followed by `New Terminal`
+- Next, whichever version your running, On the top tool bar select `Terminal` followed by `New Terminal`
 ![Image description](assets/assets/6.png)
 - In the terminal that has just opened at the bottom copy paste `pip install -r requirements.txt` and hit enter.
 - This will take a few minutes and install all the required dependencies we need. _Note_ We're not bothering to create a virtual environment first as this is a disposable codespace intended for a single use!
