@@ -22,22 +22,22 @@ This workshop is intended to be run in github codespaces to avoid any finiky set
 - __Prerequistes__
   - VS Studio Code - you should already have this installed on your laptops but if not: https://code.visualstudio.com/
 - From the main branch on this repo select the `<> Code` button, then the `Create Codespace on main` button from the drop down as illustrated:
-![Image description](/assets/1.png)
+![Image description](assets/assets/1.png)
 
 - A new tab will open and attempt to open the codespace in your browser, this will fail but its fine, just shut this tab and go back to the tab with the main page. 
 - Select the same `<> Code` button as before. This time the drop down should show a codes space with a randomly generated name (it may take a minute so just wait and refresh). select the thre horizontal dots to the right of the name, then select the `Open in Visual Studio Code` button as illustrated:
-![Image description](/assets/2.png)
+![Image description](assets/assets/2.png)
 
 - The new tab below will open, select `Open`:
-![Image description](/assets/3.png)
+![Image description](assets/assets/3.png)
 - VS Studio Code will open, select `Open`
-![Image description](/assets/4.png)
+![Image description](assets/assets/4.png)
 
 - Wait a minute or two for everything to boot up, your VS code should look as below with the repo files on the left and note in the bottom left it's connected to your codespace.
-![Image description](/assets/5.png)
+![Image description](assets/assets/5.png)
 
 - On the top tool bar select `Terminal` followed by `New Terminal`
-![Image description](/assets/6.png)
+![Image description](assets/assets/6.png)
 - In the terminal that has just opened at the bottom copy paste `pip install -r requirements.txt` and hit enter.
 - This will take a few minutes and install all the required dependencies we need. _Note_ We're not bothering to create a virtual environment first as this is a disposable codespace intended for a single use!
 
