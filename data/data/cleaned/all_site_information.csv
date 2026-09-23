@@ -1,0 +1,55 @@
+Id,Type,Code,Name,Address1,Address2,Town,County,Country,PostCode,Telephone,what_3_words,FAX,Notes,Last_Update,Last_User,EMailNumber,NI_Building_Type,NI_Building_Category,Latitude,Longitude,changes_applied
+22132,,E2341738,Bolton MDU Depot,Lomax's Buildings,,Bolton,Greater Manchester,England,BL2 1BA,,voice.counts.lived,,"grp cabinet at far end of Lomax's Buildings in fenceline
+CT 400/5
+Icell GC modem Port 24357 fitted 15/10/2025  ",2025-10-15 11:18:48.0000000,Terry Bleasdale,,,,,,"['empty or invalid values converted to null', 'County corrected to Greater Manchester', 'Country populated correctly', 'what 3 words reference correctly extracted from Telephone']"
+10132,,E2341360,Aintree GSM-R 4399,Off A59 Ormskirk Road,Aintree,Liverpool,Merseyside,England,L10 3LN,,cult.ample.broad,,"Enter Asda car park drive past the petrol station and thefirst  Manweb substation turn right and take rough track under the rail overbridge and meter cubcile is in fenceline next to the track access gate on the LHS
+MEx Emlite IP 192.168.8.15 Port 19740 fitted 10/11/2025",2025-11-10 17:16:44.0000000,Terry Bleasdale,,,,,,"['empty or invalid values converted to null', 'Address2 corrected from a site note to the town which was found in the County column', 'County incorrect value moved to correct column Town', 'Country populated correctly', 'what 3 words reference updated from Telephone field']"
+12359,,E2341481,Carnforth Bottom End Yard Works Delivery Office & Gates,Railway Yard off Sand Lane,Carnforth,Warton,Lancashire,England,LA5 9NJ,,looks.declines.shredder,,"Gate Coder 2005
+located in green GRP cubicle on roadway at far end of Bottom End Yard.
+400/5 cts 100 amp fuses
+MEx L&G IP 192.168.8.15 Port 18507 fitted 08/01/2026",2026-01-08 13:31:24.0000000,Terry Bleasdale,,,,,,"['empty or invalid values converted to null', 'Address2 corrected from Warton to Carnforth and County populated as Lancashire', 'Town and County columns corrected due to systemic shifts', 'Country populated correctly', 'what 3 words reference not found in input schema but value found in Telephone, updated accordingly']"
+1089,,E2320185,Heamies Bridge GSM-R 8136 HEA,Lower Heamies Road,Norton Bridge,Stafford,Staffordshire,United Kingdom,ST21 6LL,,assures.coupler.decisions,,"Site Access - Access off the Eccleshall Rd by the farm and follow the road for Hermies Farm down to the railway
+At the end of station road turn left onto B5026 and follow road the take the first right the follow to bridge meter located on the right behind fenceline adjacent with access gate
+ICell GC Modem Port 12442 fitted 22/10/2025",2025-10-22 15:41:38.0000000,Terry Bleasdale,,,,,,"['empty or invalid values converted to null', ""County corrected to 'Staffordshire'"", ""Country populated to 'United Kingdom'"", 'what 3 words reference found in Telephone']"
+10761,,G7405198,Chester MDU Depot Stores (Gas),Hoole West Yard,Hoole Road,Chester,Cheshire,England,CH2 3DT,,steps.evenly.horns,,"Site Access - Access from Hoole Road Bridge and follow the authorised route to the access for the Stores/former OTM Shed. meter in green cubcile on LHS
+AMR resyncced 24/10/2019 - Utilitec - failed again
+MEx -14/11/2019 - AMR resinstalled 10/12/2019 - Utilitec
+Check reading taken 05/08/20 - 143317 
+Attended 26/02/2021 Utilitec NFF.
+
+Unused due to faulty appliance. JA",2025-10-09 13:20:26.0000000,jason.ademola@networkrail.co.uk,,,,,,"['empty or invalid values converted to null', 'County populated correctly as Cheshire', 'Country populated correctly as England']"
+2347,,E2340470,Crewe Potteries ITSL,The Sidings behind AO Omega Warehouse,Crewe,Cheshire,Crewe,England,CW1 6BW,,diamond.possible.fools,,"Site Access - Access from the AO Warehouse Gatehouse and sign in. then follow the authorised one way route to the rear of the warehouse cubicle is in fenceline adjacent track access gate.
+CT200/5 fused ar 160 Amp
+ICell GC Modem and HG ariel IP 10.100.50.51 Port 14654 fitted 19/11/2025
+",2025-11-19 14:40:32.0000000,Terry Bleasdale,,,,,,"['empty or invalid values converted to null', 'Address2 corrected from a site note to the town which was found in the County column', 'County updated to Cheshire, which is geographically accurate for Crewe', 'Country populated correctly', 'what 3 words reference extracted from the Telephone field']"
+2145,,E2340215,"Kingmoor Yard AHD & MHD, Tower Ltg & DB Cargo",ENWL Substation,Cargo Beck,Carlisle,Cumbria,England,CA6 4BB,,defected.stove.alleges,,"Site Access - Access from the approach road to Kingmoor Yard into the ENWL 
+Site Usage Notes - Yard Lighting - Network Rail.                                                    Accomod. - Training School - Story Rail     Yard Lighting - Shunters Accommod. -DBS
+Gate code 1525
+
+MEx 27/10/2016 4 meters
+
+ICell GC modem swaps 03/07/2025
+Meter 051 - Port 24849
+Meter 052 - Port 24848
+Meter 097 - Port 24862
+Meter 098 - Port 24853
+
+
+DB Cargo contact Phil Tait - 07801906280
+DB sub meters x2 fitted 26/07/2023
+E20UP05031 - Miantenance Shed
+E22UP05438 - Shunters/traincrew",2025-11-04 16:06:37.0000000,Terry Bleasdale,,,,,,"['empty or invalid values converted to null', 'County corrected to Town with the appropriate value', 'Country corrected to England based on the context', 'what 3 words reference updated from Telephone']"
+2431,,E2340579,Northwich ex MDU Depot & GSMR 4377,Manchester Road,,Northwich,Cheshire,England,CW9 5ND,,grain.thin.effort,,"Site Location - Enter Northwich Town Centre and follow the road signs for direction to the station. Continue down Manchester Road to the T Junction and turn right into the Emperors Court Chinese Restaurant Car Park. Continue through the car park to the depot access.
+Site Access - Access through the main gate and continue to the far end of the brick accommodation
+new telecoms suppy intalled 29/03/2021 and ols supply fed from here disconencted
+MEx 16/06/2022
+Building demlished and supply moved to new GRP cabinet by OH pole at back of yard neqar MCDonalds sign
+ASL Delta Plus modem IP 192.168.8.15 Port 43512 fitted 06/01/2026 fitted ",2026-01-06 14:26:48.0000000,Terry Bleasdale,,,,,,"['empty or invalid values converted to null', 'Address2 reset to null as the value was incorrectly placed as Town', 'County populated correctly', 'Country populated correctly', 'what 3 words reference extracted from Telephone field']"
+676,,E2249003,Sandhills IECC,Sandhills Business Park,Sandhills Lane,Liverpool,Merseyside,England,L5 9ZS,,purely.finger.engage,,"Site Access - Access via the steel gates opposite to the entrance for the Business Park, drive round building to Substation. alterntive access through black door in wall on Sandhills Lane via Merseyrail Substation key ,
+Site Usage Notes - IECC & Maintenance Staff Accommodation - Network Rail                 CIS Staff Accommodation - Merseyrail 2002
+Shared with 4141069 and 4141070 NTfT
+800/5 ct
+MEx Emlite IP 192.168.8.21 Port 56485 fitted 27/11/2025",2025-11-27 15:35:16.0000000,Terry Bleasdale,,,,,,"['empty or invalid values converted to null', ""Country corrected to 'England'"", 'Telephone converted to null', 'what 3 words reference extracted from Telephone number']"
+1184,,E2320342,Castle Bromwich Junction PH,Unit 17 Haywards Industrial Estate,Castle Vale,Birmingham,West Midlands,England,B35 7BT,,baked.basket.lame,,"Site Location - turn into roadway to units at far end of Orton Way. cubicle in Pallisade fence at end of no 17 industrial unit.
+MEx EMLITE Port 14143 - Secondhand meter already has R1 read of 038015 kWHr
+",2025-07-30 07:30:34.0000000,Terry Bleasdale,,,,,,"['empty or invalid values converted to null', 'Address2 corrected from a site note to the town which was found in the Town column', 'County populated correctly', 'Country populated correctly', 'what 3 words reference found in Telephone, updated accordingly']"
